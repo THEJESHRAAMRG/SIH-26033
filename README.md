@@ -36,6 +36,9 @@ What makes the idea useful: it brings produce listings, buyer discovery, price i
 
 ## Technical Approach
 The platform can be developed as a mobile-friendly application with separate interfaces for farmers, buyers, and logistics providers.
+
+Technologies Used: React.js for the frontend, Python Django for the backend, PostgreSQL for database management, AI/ML for demand forecasting and route optimization, and Maps API for location-based logistics.
+
 - User access: Phone-number registration and role-based accounts for farmers, buyers, and transport providers.
 - Produce listings: Forms to add crop, quantity, quality, price, location, and availability.
 - Marketplace and orders: Search and filters for buyers, with order placement and status tracking.
@@ -44,7 +47,8 @@ The platform can be developed as a mobile-friendly application with separate int
 - Route planning: Mapping and routing services can group deliveries and suggest efficient routes.
 - Notifications: SMS or in-app alerts for new orders, payment updates, and delivery status.
 - Accessibility: A simple interface with regional-language support and clear icons can make the platform easier to use.
-Implementation flow: Farmer lists produce → buyers discover and order produce → seller confirms the order → logistics are arranged → produce is delivered → order and sales data help improve future forecasts.
+- Implementation flow: Farmer lists produce → buyers discover and order produce → seller confirms the order → logistics are arranged → produce is delivered → order and sales data help improve future forecasts.
+
 ![alt text](<SIH IMG .jpeg>)
 
 ## Feasibility and Viability
