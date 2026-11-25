@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 
+# Date: 24/11/26
 ## Reference Number: 26018315
 ## Name: THEJESH RAAM R G
 
@@ -45,6 +45,7 @@ The platform can be developed as a mobile-friendly application with separate int
 - Notifications: SMS or in-app alerts for new orders, payment updates, and delivery status.
 - Accessibility: A simple interface with regional-language support and clear icons can make the platform easier to use.
 Implementation flow: Farmer lists produce → buyers discover and order produce → seller confirms the order → logistics are arranged → produce is delivered → order and sales data help improve future forecasts.
+![alt text](<SIH IMG .jpeg>)
 
 ## Feasibility and Viability
 The project is feasible as a prototype because its main functions—user accounts, produce listings, search, order management, notifications, and map-based routing—can be built using commonly available web and mobile technologies.
@@ -75,4 +76,3 @@ The actual benefits will depend on local adoption, reliable logistics, accurate 
 4. Open Government Data Platform India: https://www.data.gov.in/ — explore publicly available agricultural, market, and price datasets.
 5. Consultation and field research: Interview local farmers, FPO representatives, consumers, retailers, and transport providers. Record their needs and cite those interviews in your final presentation.
 Before presenting, verify the links and add the exact reports, datasets, and interviews your team actually used.
-![alt text](<SIH IMG 1.jpeg>)
